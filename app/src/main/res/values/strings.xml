@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_task">New Task</string>
+    <string name="task_name">Task Name : </string>
+    <string name="task_desc">Task Desc : </string>
+    <string name="name_desc">Name</string>
+    <string name="desc_detail">Description</string>
+    <string name="save_desc">Save</string>
+    <string name="empty"> </string>
+    <string name="place_holder">Place Holder</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="time_select">Select Time</string>
+</resources>
